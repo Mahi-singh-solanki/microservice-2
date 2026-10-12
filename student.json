@@ -1,0 +1,46 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Aarav Sharma",
+            "email": "aarav@example.com",
+            "year": 2,
+            "department": "Computer Engineering"
+        },
+        {
+            "id": 2,
+            "name": "Priya Patel",
+            "email": "priya@example.com",
+            "year": 3,
+            "department": "Information Technology"
+        },
+        {
+            "id": 3,
+            "name": "Rohan Mehta",
+            "email": "rohan@example.com",
+            "year": 2,
+            "department": "Computer Engineering"
+        },
+        {
+            "id": 4,
+            "name": "Ananya Desai",
+            "email": "ananya@example.com",
+            "year": 4,
+            "department": "Information Technology"
+        },
+        {
+            "id": 5,
+            "name": "Vikram Singh",
+            "email": "vikram@example.com",
+            "year": 3,
+            "department": "Computer Engineering"
+        },
+        {
+            "id": 6,
+            "name": "Mahipal singh",
+            "email": "mahi@gmail.com",
+            "year": 3,
+            "department": "IT"
+        }
+    ]
+}
